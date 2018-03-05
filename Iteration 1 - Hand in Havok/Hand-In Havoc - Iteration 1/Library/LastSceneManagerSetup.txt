@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Ruari-Testing/Scenes/Level1_FloorPlanTest.unity
+  isLoaded: 1
+  isActive: 1
