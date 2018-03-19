@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Iteration-1/Scenes/OptionsScene.unity
+  isLoaded: 1
+  isActive: 1
