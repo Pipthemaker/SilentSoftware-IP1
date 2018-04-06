@@ -1,0 +1,327 @@
+fileFormatVersion: 2
+guid: 0c50ce59c1fa8b441ab21104dd7f5b91
+timeCreated: 1522827542
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cha_main_back_sheet_0
+    21300002: cha_main_back_sheet_1
+    21300004: cha_main_back_sheet_2
+    21300006: cha_main_back_sheet_3
+    21300008: cha_main_back_sheet_4
+    21300010: cha_main_back_sheet_5
+    21300012: cha_main_back_sheet_6
+    21300014: cha_main_back_sheet_7
+    21300016: cha_main_back_sheet_8
+    21300018: cha_main_back_sheet_9
+    21300020: cha_main_back_sheet_10
+    21300022: cha_main_back_sheet_11
+    21300024: cha_main_back_sheet_12
+    21300026: cha_main_back_sheet_13
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cha_main_back_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3766
+        width: 1677
+        height: 404
+      alignment: 9
+      pivot: {x: 0.09031883, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 103
+        width: 1677
+        height: 2954
+      alignment: 9
+      pivot: {x: 0.5, y: 0.09443005}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 2133
+        width: 493
+        height: 2037
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9461386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 2799
+        y: 2001
+        width: 713
+        height: 2169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 3525
+        y: 2001
+        width: 717
+        height: 2169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3300
+        width: 1677
+        height: 408
+      alignment: 9
+      pivot: {x: 0.09031883, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 730
+        width: 342
+        height: 1277
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 730
+        width: 342
+        height: 1277
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 1233
+        width: 326
+        height: 685
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 1231
+        width: 323
+        height: 685
+      alignment: 9
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 3358
+        y: 174
+        width: 877
+        height: 1593
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1858
+        y: 68
+        width: 462
+        height: 475
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 2389
+        y: 68
+        width: 460
+        height: 475
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: cha_main_back_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 2137
+        width: 488
+        height: 2030
+      alignment: 9
+      pivot: {x: 0.5, y: 0.9461386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
