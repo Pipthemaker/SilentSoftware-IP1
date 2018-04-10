@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Iteration-2/Scenes/LogoScreen.unity
+    guid: e5aac0faa6034534292b47f6dad04322
+  - enabled: 1
+    path: Assets/Iteration-2/Scenes/Hi-Score.unity
+    guid: 5c8adea462a16934d93174d3ab5aa0d1
+  - enabled: 1
+    path: Assets/Iteration-2/Scenes/Level_1-Intro.unity
+    guid: 321733230396f1442aa2272030274cba
+  - enabled: 1
+    path: Assets/Iteration-2/Scenes/Level_1.unity
+    guid: 3c25134e815decb40a6cf9f24b5c95bd
+  - enabled: 1
+    path: Assets/Iteration-2/Scenes/Level_2-Intro.unity
+    guid: ab2d6d4a7009bdc4c9f098d486974acc
+  - enabled: 1
+    path: Assets/Lewis-Testing/L_2.unity
+    guid: eb6504c800b8d204cbb4340d1635bdfc
+  - enabled: 1
+    path: Assets/Iteration-2/Scenes/MainMenu.unity
+    guid: 0960343d161ce5749aaf35b23a9930ab
+  - enabled: 1
+    path: Assets/Ruari-Testing/Scenes/OptionsScene.unity
+    guid: 7aaaa119d9a08cd48a75a80f051ee80a
+  - enabled: 1
+    path: Assets/Iteration-2/Scenes/WinLoss_Scene.unity
+    guid: be2272bf692508c4f9b3948111527866
